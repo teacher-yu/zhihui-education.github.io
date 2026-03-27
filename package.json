@@ -1,0 +1,19 @@
+{
+  "name": "zhihui-education-website",
+  "version": "1.0.0",
+  "description": "智慧教育 - 专业教育培训平台网站",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo '静态网站无需构建'",
+    "deploy": "echo '使用GitHub Pages或其他平台部署'"
+  },
+  "keywords": ["education", "website", "responsive", "html", "css", "javascript"],
+  "author": "智慧教育",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/你的用户名/zhihui-education.git"
+  },
+  "homepage": "https://你的用户名.github.io/zhihui-education"
+}
